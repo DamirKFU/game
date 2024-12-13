@@ -7,7 +7,7 @@
 1. Clone the repo
 
    ```bash
-   git clone https://github.com/DamirKFU/vlad.git
+   git clone https://github.com/DamirKFU/game.git
    ```
 
 2. Go to working directory
