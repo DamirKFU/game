@@ -1,0 +1,2 @@
+pygame==2.6.1
+db-sqlite3==0.0.1
