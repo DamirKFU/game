@@ -53,6 +53,7 @@ while True:
             elif button_rects["online"].collidepoint(mouse_pos):
                 handle_settings_menu(screen, db_manager)
             elif button_rects["exit"].collidepoint(mouse_pos):
+                db_manager.close()
                 pygame.quit()
                 sys.exit()
     mouse_pos = pygame.mouse.get_pos()
