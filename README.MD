@@ -63,7 +63,7 @@
 1. Install requirements
 
     ```bash
-    pip install -r requirements/prod.txt
+    pip install -r requirements.txt
     ```
 
 #### Start
